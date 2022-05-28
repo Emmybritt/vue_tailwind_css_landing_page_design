@@ -16,7 +16,7 @@
             <div class="flex flex-wrap space-x-4 py-6 md:py-[3rem]">
                 <div class="flex -space-x-4 overflow-hidden">
                     <img src="../assets/icons/sec.jpg" class="h-12 w-12 z-30 object-cover rounded-full ring-2 ring-white inline-block" alt="">
-                    <img src="../assets/icons/oip.jpg" class="h-12 w-12 z-20 object-cover rounded-full ring-2 ring-white inline-block" alt="">
+                    <img src="../assets/icons/OIP.jpg" class="h-12 w-12 z-20 object-cover rounded-full ring-2 ring-white inline-block" alt="">
                     <img src="../assets/icons/talk.jpg" class="h-12 w-12 z-10 object-cover rounded-full ring-2 ring-white inline-block" alt="">
                 </div>
                 <div>
